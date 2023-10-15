@@ -15,7 +15,7 @@ Now you can make your changes and then add them and do a commit and finally push
 git add <filename>
 
 
-git commit -m <"Initial commit>
+git commit -m <"Initial commit">
 
 
 git push origin master

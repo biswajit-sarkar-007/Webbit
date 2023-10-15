@@ -12,8 +12,12 @@ This website consists of only 1 page made using HTML and CSS and is static in na
 
 Now you can make your changes and then add them and do a commit and finally push to remote branch; say you are on master.
 
-git add <file>
+git add <filename>
+
+
 git commit -m <commit message>
+
+
 git push origin master
 
 

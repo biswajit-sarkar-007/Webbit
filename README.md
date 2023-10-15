@@ -7,3 +7,5 @@ I am open to any changes made in my project and would like to invite all of you 
 You can clone this repository on github by following the below command:- 
 
 git clone https://github.com/Amoghchandragiri/Webbit.git
+
+This website consists of only 1 page made using HTML and CSS and is static in nature. It contains services offered by the coding club and detailed description of each service. It also contains a feedback mechanism to address the queries of students. 

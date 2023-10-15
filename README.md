@@ -10,6 +10,12 @@ git clone https://github.com/Amoghchandragiri/Webbit.git
 
 This website consists of only 1 page made using HTML and CSS and is static in nature. It contains services offered by the coding club and detailed description of each service. It also contains a feedback mechanism to address the queries of students. 
 
+Now you can make your changes and then add them and do a commit and finally push to remote branch; say you are on master.
+
+git add <file>
+git commit -m <commit message>
+git push origin master
+
 
 Website has been deployed in Replit with the following link:- 
 

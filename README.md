@@ -6,21 +6,29 @@ This helps juniors a lot as they get a platform to learn new skills and network 
 I am open to any changes made in my project and would like to invite all of you to collaborate with me and introduce some cool changes which would make the website make more responsive and dynamic in nature.
 You can clone this repository on github by following the below command:- 
 
-~git clone https://github.com/Amoghchandragiri/Webbit.git~
+```
+git clone https://github.com/Amoghchandragiri/Webbit.git
+```
 
 This website consists of only 1 page made using HTML and CSS and is static in nature. It contains services offered by the coding club and detailed description of each service. It also contains a feedback mechanism to address the queries of students. 
 
 Now you can make your changes and then add them and do a commit and finally push to remote branch; say you are on master.
 
-~git add .~
+```
+git add .
+```
 
+```
+git commit -m <"Initial commit">
+```
 
-~git commit -m <"Initial commit">~
-
-
-~git push origin master~
+```
+git push origin master
+```
 
 
 Website has been deployed in Replit with the following link:- 
 
-~https://webbit.amogh01.repl.co~
+```
+https://webbit.amogh01.repl.co
+```

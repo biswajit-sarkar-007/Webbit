@@ -17,19 +17,22 @@ You can clone this repository on github by following the below command:-
 git clone https://github.com/Amoghchandragiri/Webbit.git
 ``` 
 
-Now you can make your changes and then add them and do a commit and finally push to remote branch; say you are on master.
+- Create a branch
+
+``` 
+git checkout -b "<your_branch_name>"
+```
+
+- Make your changes
+- Commit and push
 
 ```
 git add .
+git commit -m 'Commit message'
+git push origin <your_branch_name>
 ```
-
-```
-git commit -m <"Initial commit">
-```
-
-```
-git push origin master
-```
+- Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
+- Wait for your PR review and merge approval!
 
 
 Website has been deployed in Replit with the following link:- 

@@ -40,6 +40,8 @@ Website has been deployed in Replit with the following link:-
 ```
 https://webbit.amogh01.repl.co
 ```
+Website has been deployed using Github pages with the following link:- 
+
 ```
 https://amoghchandragiri.github.io/Webbit/
 ```
